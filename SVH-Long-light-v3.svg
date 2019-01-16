@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3508 3961" width="3508" height="3961">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: #001e5d } 
+		.txt2 { font-size: 274px;fill: #001e5d;font-family: "De Valencia";text-anchor: middle } 
+		.shp3 { fill: #ffffff;stroke: #ff0000;paint-order:stroke fill markers;stroke-width: 40.2 } 
+		.shp4 { fill: #e20404;stroke: #ff0000;paint-order:stroke fill markers;stroke-width: 8.8 } 
+		.txt5 { font-size: 341px;letter-spacing: 185px;fill: #ffffff;font-family: "Metropolis";font-weight: bold;text-anchor: middle } 
+		.txt6 { font-size: 68px;letter-spacing: 37px;fill: #ffffff;font-family: "Metropolis";font-weight: bold;text-anchor: middle } 
+		.txt7 { font-size: 22px;fill: #1e1e1e;font-family: "Ugly Qua" } 
+		.txt8 { font-size: 135px;fill: #e20404;font-family: "De Valencia";text-anchor: middle } 
+		.txt9 { font-size: 80px;fill: #001e5d;font-family: "Parisienne";text-anchor: middle } 
+	</style>
+	<path id="Background" class="shp0" d="M-160,4589h3815.08v-5280h-3815.08z" />
+	<path id="Shape 12" class="shp1" d="M0,3993h3508v-691h-3508z" />
+	<path id="Shape 14" class="shp0" d="M0,3370.2h3508v-17.4h-3508z" />
+	<text id="Toronto " style="transform: matrix(1.045,0,0,1.414,1873,2186.586)" >
+		<tspan x="0" y="0" class="txt2">Toronto</tspan>
+	</text>
+	<path id="Shape 7" class="shp3" d="M2061.89 703.07L1870.05 534.25L1678.21 703.07C1678.21 703.31 1678.15 703.66 1678.04 704.13C1677.93 704.61 1677.88 704.97 1677.88 705.2L1677.88 876.16C1677.88 882.34 1679.99 887.68 1684.22 892.19C1688.44 896.7 1693.44 898.95 1699.23 898.95L1827.35 898.95L1827.35 762.19L1912.76 762.19L1912.76 898.95L2040.87 898.95C2046.66 898.95 2051.66 896.7 2055.89 892.19C2060.11 887.68 2062.23 882.34 2062.23 876.16L2062.23 705.2C2062.23 704.26 2062.11 703.54 2061.89 703.07L2061.89 703.07ZM2138.96 672.26C2138.74 669.05 2137.51 666.5 2135.29 664.6L2062.23 599.78L2062.23 454.47C2062.23 451.14 2061.23 448.41 2059.22 446.27C2057.22 444.14 2054.66 443.07 2051.55 443.07L1987.49 443.07C1984.37 443.07 1981.82 444.14 1979.82 446.27C1977.82 448.41 1976.82 451.14 1976.82 454.47L1976.82 523.92L1895.41 451.26C1888.29 445.09 1879.84 442 1870.05 442C1860.26 442 1851.81 445.09 1844.7 451.26L1604.81 664.6C1602.58 666.5 1601.36 669.05 1601.14 672.26C1600.92 675.46 1601.69 678.26 1603.48 680.63L1624.16 706.98C1625.94 709.12 1628.27 710.43 1631.17 710.9C1633.84 711.14 1636.5 710.31 1639.17 708.41L1870.05 502.9L2100.93 708.41C2102.71 710.07 2105.04 710.9 2107.94 710.9L2108.94 710.9C2111.82 710.43 2114.16 709.12 2115.94 706.98L2136.63 680.63C2138.41 678.26 2139.18 675.46 2138.96 672.26Z" />
+	<path id="Shape 12" class="shp4" d="M0,3660h3508v-282h-3508z" />
+	<text id="416.444.1166 " style="transform: matrix(0.79,0,0,1.201,1754,3659.996)" >
+		<tspan x="0" y="0" class="txt5">416.444.1166</tspan>
+	</text>
+	<text id="www.SummerValleyHomes.com " style="transform: matrix(1,0,0,2.031,1756,3891.181)" >
+		<tspan x="0" y="0" class="txt6">www.SummerValleyHomes.com</tspan>
+	</text>
+	<text id="President: Anthony Andriano Toronto, Ontario Postal code email " style="transform: matrix(2.893,0,0,2.817,2702.34,2991.691)" >
+		<tspan x="0" y="0" class="txt7">President: Anthony Andriano</tspan>
+		<tspan x="0" y="24.64" class="txt7">Toronto, Ontario</tspan>
+		<tspan x="0" y="49.28" class="txt7">Postal code</tspan>
+		<tspan x="0" y="73.92" class="txt7">email</tspan>
+	</text>
+	<text id="Design-Build-Renovate " style="transform: matrix(1.094,0,0,0.91,2004,1782.18)" >
+		<tspan x="0" y="0" class="txt8">Design-Build-Renovate</tspan>
+	</text>
+	<text id="Summer Valley Homes" style="transform: matrix(4.39,0,0,7.911,1756.238,1543.62)" >
+		<tspan x="0" y="0" class="txt9">Summer Valley Homes</tspan>
+	</text>
+</svg>
